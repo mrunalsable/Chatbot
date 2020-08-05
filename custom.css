@@ -1,0 +1,10 @@
+/* Alternate the background color of the output rows */
+.list-group-item:nth-child(even) {
+    background-color: #eee;
+}
+/* @media (min-width: 768px) {
+  .modal-xl {
+    width: 90%;
+   max-width:1200px;
+  }
+} */
